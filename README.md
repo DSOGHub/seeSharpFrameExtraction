@@ -11,10 +11,10 @@ This tool is an incredibly basic tool designed to extract frames from video file
 
 ### Step 1: Clone the Repository
 
-First, clone the repository to your local machine using Git. Replace `placeholder url` with the actual URL of the Git repository.
+First, clone the repository to your local machine using Git. Or download it.
 
 ```bash
-git clone placeholder url
+git clone https://github.com/dso4/seeSharpFrameExtraction.git
 ```
 
 ### Step 2: Build the Docker Image
